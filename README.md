@@ -1,5 +1,6 @@
 # **ONLINE RETAIL: ANALYSING REVENUE AND RETENTION RATE**
 
+<h5 align="center"> This project is a part of "Data Science” curriculum as capstone projects at<a href="[https://www.almabetter.com/](https://www.coderschool.vn/vi)"> Coderschool </a> </h5>
 
 
 
